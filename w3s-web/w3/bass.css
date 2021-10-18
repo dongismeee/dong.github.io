@@ -1,0 +1,28 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+:root{
+    --red-color:#f44236;
+    --w-color:#fff;
+}
+h1,h2,h3,p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 550;
+    line-height: 1.5;
+    margin:10px 0;
+}
+h1{
+    font-size: 24px;
+}
+a{
+    font-size: 18px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    line-height: 1.5;
+}
+h2{
+    font-size: 48px;
+    color:var(--red-color);
+}
